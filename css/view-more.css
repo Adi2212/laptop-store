@@ -124,6 +124,7 @@ h1 {
 }
 .product-description p{
   font-family: 'Nunito Sans', sans-serif;
+display:flex;
 flex-wrap:wrap;
   font-weight: bolder;
 }
