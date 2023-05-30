@@ -151,6 +151,8 @@ h1 {
   font-weight: bolder;
 }
 .product-description p{
+  display:flex;
+  flex-wrap:wrap;
   margin: 10px;
   font-weight: 900;
   font-family: 'Nunito Sans', sans-serif;
