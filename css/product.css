@@ -142,6 +142,9 @@ h1 {
 .right-column{
     height: max-content;
     width: 1000px;
+    display:flex;
+    flex-direction: column;
+    flex-wrap: wrap;
     
 }
 #a{
